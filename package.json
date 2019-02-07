@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmcguigan/mongo-scraper.git"
+    "url": "git+https://github.com/rhgcodes/NYT-Scraper"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lmcguigan/mongo-scraper/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/lmcguigan/mongo-scraper#readme",
+  "homepage": "https://github.com/rhgcodes/NYT-Scraper#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
