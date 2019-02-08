@@ -10,6 +10,10 @@ The link below will give you direct access to NYT-Scrape web application using y
 
 * [Art News-WebScrape](https://fathomless-sands-42819.herokuapp.com/)
 
+## Demos
+![](http://i.imgur.com/OUkLi.gif)
+
+
 ## Local Environment Setup
 To use Art News-WebScrape application from your local environment, you must accomplish the following steps below:
 
